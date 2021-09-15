@@ -22,7 +22,7 @@ On Debian and Ubuntu, discord-player depends on the following packages:
 
 Install the following:
 
-`pacman -S qt5-base qt5-webengine qt5-webchannel qt5-declarative qt5-location xdg-utils cmake`
+`pacman -S --needed qt5-base qt5-webengine qt5-webchannel qt5-declarative qt5-location xdg-utils cmake`
 
 #### Void Linux
 
